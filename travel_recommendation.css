@@ -116,7 +116,7 @@ body {
     height: calc(100vh - 60px);
     background:
         linear-gradient(to right, #4b505aa4, rgba(0, 163, 163, 0)),
-        url("/images/heroBG.png");
+        url("images/heroBG.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
